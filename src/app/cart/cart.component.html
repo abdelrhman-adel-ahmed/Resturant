@@ -1,0 +1,18 @@
+<h2>Cart</h2>
+<div *ngIf="cart.length === 0">
+  Your cart is empty.
+</div>
+
+<div *ngIf="cart.length > 0">
+  <ul>
+    <li *ngFor="let meal of cart">
+      {{ meal.name }} - {{ meal.price | currency }}
+    </li>
+  </ul>
+
+  <button (click)="submitCart()">Submit</button>
+
+  <div *ngIf="submitted">
+    Your order has been submitted.
+  </div>
+</div>
