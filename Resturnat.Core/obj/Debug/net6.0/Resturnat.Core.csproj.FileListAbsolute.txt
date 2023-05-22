@@ -1,0 +1,12 @@
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\bin\Debug\net6.0\Resturnat.Core.deps.json
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\bin\Debug\net6.0\Resturnat.Core.dll
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\bin\Debug\net6.0\Resturnat.Core.pdb
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.csproj.AssemblyReference.cache
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.AssemblyInfoInputs.cache
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.AssemblyInfo.cs
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.csproj.CoreCompileInputs.cache
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.dll
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\refint\Resturnat.Core.dll
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\Resturnat.Core.pdb
+D:\Personal\Restaurant\Resturant.Api\Resturnat.Core\obj\Debug\net6.0\ref\Resturnat.Core.dll

@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resturant.Api", "Resturant.Api\Resturant.Api.csproj", "{CACBD356-DC16-422C-A7DF-E684562892B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resturnat.Core", "Resturnat.Core\Resturnat.Core.csproj", "{AD310AF1-1174-424F-9BB0-855AECD378E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resturant.Infrastructure", "Resturant.Infrastructure\Resturant.Infrastructure.csproj", "{0776686D-B5E7-44AD-B8EA-6B187FFB08AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E2E7EDF-C3A5-458B-8FF6-F792B0ABFFA3}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resturant.Application", "Resturant.Application\Resturant.Application.csproj", "{EA6D21AE-E5A4-4BBF-BE7A-243C45D90CFF}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "resturant", "..\Resturant.Front\resturant\", "{4E7F1BD9-26C3-4711-8C91-F684B1358FF3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53423"
+		Debug.AspNetCompiler.PhysicalPath = "..\Resturant.Front\resturant\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53423\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53423"
+		Release.AspNetCompiler.PhysicalPath = "..\Resturant.Front\resturant\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53423\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53423"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACBD356-DC16-422C-A7DF-E684562892B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACBD356-DC16-422C-A7DF-E684562892B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACBD356-DC16-422C-A7DF-E684562892B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACBD356-DC16-422C-A7DF-E684562892B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD310AF1-1174-424F-9BB0-855AECD378E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD310AF1-1174-424F-9BB0-855AECD378E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD310AF1-1174-424F-9BB0-855AECD378E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD310AF1-1174-424F-9BB0-855AECD378E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0776686D-B5E7-44AD-B8EA-6B187FFB08AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0776686D-B5E7-44AD-B8EA-6B187FFB08AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0776686D-B5E7-44AD-B8EA-6B187FFB08AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0776686D-B5E7-44AD-B8EA-6B187FFB08AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6D21AE-E5A4-4BBF-BE7A-243C45D90CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6D21AE-E5A4-4BBF-BE7A-243C45D90CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6D21AE-E5A4-4BBF-BE7A-243C45D90CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6D21AE-E5A4-4BBF-BE7A-243C45D90CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7F1BD9-26C3-4711-8C91-F684B1358FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7F1BD9-26C3-4711-8C91-F684B1358FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7F1BD9-26C3-4711-8C91-F684B1358FF3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7F1BD9-26C3-4711-8C91-F684B1358FF3}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7A2E8A-C754-465D-B370-BAF1E94E1304}
+	EndGlobalSection
+EndGlobal
